@@ -18,7 +18,10 @@
 - 해시태그 빈도 분석
     - bar chart, WordCloud
 
-    ![제주 핫플레이스 Bar Chart](https://raw.githubusercontent.com/Koeyh/bigdata-analysis-2024/main/images/ba008.png)
+    ![제주 핫플레이스 Bar Chart](https://raw.githubusercontent.com/Koeyh/bigdata-analysis-2024/main/images/ba007.png)
+    
+    ![제주 핫플레이스 WordCloud](https://raw.githubusercontent.com/Koeyh/bigdata-analysis-2024/main/images/ba008.png)
+
 
 
     
